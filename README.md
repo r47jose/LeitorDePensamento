@@ -1,0 +1,2 @@
+# LeitorDePensamento
+ Advinhar numero randomico
